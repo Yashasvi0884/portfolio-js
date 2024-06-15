@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://AdityaSinghRajawat.github.com/microsoft/portfolio-js",
+  "homepage": "https://AdityaSinghRajawat.github.com/portfolio-js",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
