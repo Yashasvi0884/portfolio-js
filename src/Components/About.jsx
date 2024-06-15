@@ -24,19 +24,30 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am a dedicated Full Stack Developer with a strong background in creating efficient and scalable web applications. My expertise lies in both front-end and back-end technologies, and I am passionate about learning new tools and techniques to improve user experience and application performance.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "HTML",
+  "CSS",
+  "JavaScript",
+  "TypeScript",
+  "ReactJS",
+  "Next.js",
+  "Node.js",
+  "Python",
+  "MongoDB",
+  "MySQL",
+  "PostgreSQL",
+  "Git",
+  "REST API",
+  "AWS",
+  "Data Structures",
+  "Algorithms",
+  "UI/UX Design",
 ];
 
 /**
@@ -45,7 +56,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "My approach to development is rooted in collaboration and innovation. I thrive in dynamic team environments where I can contribute my technical expertise and creativity to deliver high-quality solutions. Whether it’s designing an intuitive user interface or optimizing backend performance, I am driven by a desire to create impactful and meaningful applications.";
 
 const About = () => {
   return (
