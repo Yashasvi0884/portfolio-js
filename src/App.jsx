@@ -24,15 +24,15 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Aditya Singh Rajawat",
-  title: "Full Stack Developer",
-  email: "adityasinghrajawat393@gmail.com",
-  gitHub: "AdityaSinghRajawat",
-  instagram: "adityasinghrajawatt?igsh=NGhkZXpvd3U5NGp6",
-  linkedIn: "aditya-singh-rajawat-685364234/",
+  name: "Yashasvi Chhaliya",
+  title: "Entrepreneur",
+  email: "yashasvichhaliya24@gmail.com",
+  gitHub: "Yashasvi0884",
+  instagram: "https://www.instagram.com/yashasvi_chhaliya?utm_source=qr&igsh=dDlsaWt6aXFoNzRt",
+  linkedIn: "Yashasvi Chhaliya",
   medium: "",
-  twitter: "",
-  youTube: "@adityasinghrajawat8073",
+  twitter: "Yashasvi Chhaliya",
+  youTube: "Yashasvi Chhaliya",
 };
 
 const primaryColor = "#4E567E";
