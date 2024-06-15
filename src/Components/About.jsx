@@ -31,23 +31,12 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "HTML",
-  "CSS",
-  "JavaScript",
-  "TypeScript",
-  "ReactJS",
-  "Next.js",
-  "Node.js",
+  "Web design",
+  "App development",
   "Python",
-  "MongoDB",
-  "MySQL",
-  "PostgreSQL",
-  "Git",
-  "REST API",
-  "AWS",
-  "Data Structures",
-  "Algorithms",
-  "UI/UX Design",
+  "C",
+  "Mobile user interfaces",
+  "Project design on WOKWI",
 ];
 
 /**
@@ -56,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "My approach to development is rooted in collaboration and innovation. I thrive in dynamic team environments where I can contribute my technical expertise and creativity to deliver high-quality solutions. Whether it’s designing an intuitive user interface or optimizing backend performance, I am driven by a desire to create impactful and meaningful applications.";
+"I am passionate about solving problems in new creative ways to drive innovation. By leveraging my project making experience I continually look for new and better ways to make tech accessible by all.";
 
 const About = () => {
   return (
